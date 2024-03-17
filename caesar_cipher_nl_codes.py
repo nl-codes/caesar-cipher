@@ -2,9 +2,6 @@
 using caesar cipher which can be
 read from console or file and
 written to new file'''
-# Name : Narayan Lohani
-# Student Number : 2408869
-
 
 def welcome():
     '''Prints text to welcome user to Caesar Cipher.'''
